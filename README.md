@@ -38,7 +38,7 @@ This is the smallest possible Java program. Yes, you need all these words.
 
 The only optional things in the example below are
 
-* The third word from the beginning, **Main**
+* The third word from the beginning, **Main**. You can pick another word, but you must write something. 
 * The third line which just prints "Hello world";
 
 Everything else must be written exactly as shown. But what do they mean?
