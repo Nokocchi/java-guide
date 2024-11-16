@@ -55,7 +55,7 @@ public class Main {
 
 A template, blueprint or wrapper for some variables and functions that belong together. 
 
-A always has a name. In the example above, the class is called "Main". But you can call it anything you want.
+A class always has a name. In the example above, the class is called "Main". But you can call it anything you want.
 
 You could also make a "car" class that contains some variables like 
 
